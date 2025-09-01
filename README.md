@@ -9,7 +9,6 @@ A mod for the game Battle Brothers ([Steam](https://store.steampowered.com/app/3
 -   [Installation](#installation)
 -   [Uninstallation](#uninstallation)
 -   [Compatibility](#compatibility)
--   [Building](#building)
 
 ## Features
 
